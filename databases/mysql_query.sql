@@ -233,7 +233,6 @@ COMMIT;
 -- Data for table `shopping-cart`.`usercart`
 -- -----------------------------------------------------
 START TRANSACTION;
-USE `shopping-cart`;
 INSERT INTO `shopping-cart`.`usercart` (`username`, `prodid`, `quantity`) VALUES ('guest@gmail.com', 'P20230423082243', 2);
 
 COMMIT;

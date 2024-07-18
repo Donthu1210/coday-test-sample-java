@@ -12,5 +12,4 @@
         <property name="context-root" value="shopping-cart"/>
             
     </wb-module>
-    
-</project-modules>
+
