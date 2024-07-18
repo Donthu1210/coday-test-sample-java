@@ -21,26 +21,26 @@
     }
   }
 
-  function _createClass(Constructor, protoProps, staticProps) {
-    if (protoProps) _defineProperties(Constructor.prototype, protoProps);
-    if (staticProps) _defineProperties(Constructor, staticProps);
-    return Constructor;
-  }
+  // function _createClass(Constructor, protoProps, staticProps) {
+  //   if (protoProps) _defineProperties(Constructor.prototype, protoProps);
+  //   if (staticProps) _defineProperties(Constructor, staticProps);
+  //   return Constructor;
+  // }
 
-  function _defineProperty(obj, key, value) {
-    if (key in obj) {
-      Object.defineProperty(obj, key, {
-        value: value,
-        enumerable: true,
-        configurable: true,
-        writable: true
-      });
-    } else {
-      obj[key] = value;
-    }
+  // function _defineProperty(obj, key, value) {
+  //   if (key in obj) {
+  //     Object.defineProperty(obj, key, {
+  //       value: value,
+  //       enumerable: true,
+  //       configurable: true,
+  //       writable: true
+  //     });
+  //   } else {
+  //     obj[key] = value;
+  //   }
 
-    return obj;
-  }
+  //   return obj;
+  // }
 
   function _objectSpread(target) {
     for (var i = 1; i < arguments.length; i++) {
